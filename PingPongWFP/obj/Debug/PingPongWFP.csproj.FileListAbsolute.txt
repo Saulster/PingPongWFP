@@ -1,0 +1,11 @@
+C:\Users\lab_services_student\source\repos\PingPongWFP\bin\Debug\PingPongWFP.exe.config
+C:\Users\lab_services_student\source\repos\PingPongWFP\bin\Debug\PingPongWFP.exe
+C:\Users\lab_services_student\source\repos\PingPongWFP\bin\Debug\PingPongWFP.pdb
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.PingPong.resources
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.exe
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.pdb
+C:\Users\lab_services_student\source\repos\PingPongWFP\obj\Debug\PingPongWFP.Form1.resources
